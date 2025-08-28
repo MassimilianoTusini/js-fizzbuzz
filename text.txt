@@ -12,3 +12,13 @@ scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 
 
+PROCEDIMENTO:
+
+1. Dichiarare delle variabili fizz, buzz e FizzBuzz.
+2. Avviare un ciclo con 'for'.
+3. Ogni numero da 1 a 100 inteso come 'i' (i = 1; i<=100).
+4. Usare i++ per avviare il ciclo in modo crescente da 1 a 100.
+5. Usare % per avere il resto 0 dei numeri divisibile per 3 e 5 [(i % 3 === 0) ogni numero che diviso per 3 da resto 0 e (i % 5 === 0) ogni numero che diviso per 5 da resto 0].
+6. Usare && per combinare i multipli di 3 e 5 (i % 3 === 0 && i % 5 === 0)
+7. Inserire i vari 'resto 0' all'interno di if ed else if.
+8. Usare un console.log per ogni if ed else if usado le variabili dichiarate sopra
